@@ -1,0 +1,15 @@
+commit.sh
+build/
+test/build/
+compile/
+dist/
+.DS_Store
+.vscode
+__pycache__
+bin/
+obj/
+.zig-cache
+.zig-out
+
+se
+zse
